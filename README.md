@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Laper Web App](https://github.com/pradeepmondal/laper-web-app)
 
-- 🌱 I’m currently learning **React Native and Web3**
+- 🌱 I’m currently learning **Cloud Computing, Machine Learning and THREEjs**
 
 - 🤝 I’m looking for help with **Freelancing**
 
