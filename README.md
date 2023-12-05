@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ppmtwts" target="blank"><img src="https://img.shields.io/twitter/follow/ppmtwts?logo=twitter&style=for-the-badge" alt="ppmtwts" /></a> </p>
 
-- 🔭 I’m currently working on [Laper Web App](https://github.com/pradeepmondal/laper-web-app)
+- 🔭 I’m currently working on [harmoSync](https://github.com/pradeepmondal/harmoSync)
 
 - 🌱 I’m currently learning **Cloud Computing, Machine Learning and THREEjs**
 
