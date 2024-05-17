@@ -3,27 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepmondal&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepmondal" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradeepmondal" alt="pradeepmondal" /></a> </p> -->
-
 <p align="left"> <a href="https://twitter.com/ppmtwts" target="blank"><img src="https://img.shields.io/twitter/follow/ppmtwts?logo=twitter&style=for-the-badge" alt="ppmtwts" /></a> </p>
 
-- 🔭 I’m currently working on [harmoSync](https://github.com/pradeepmondal/harmoSync)
+- 🔭 I’m currently developing different amazing products under [deepro.co](https://deepro.co)
 
-- 🌱 I’m currently learning **Cloud Computing, Machine Learning and THREEjs**
+- 🌱 I’m currently diving deep into the **Data and AI** world
 
-- 🤝 I’m looking for help with **Freelancing**
+- 🤝 I’m looking for **Research Internship**
 
-- 💬 Ask me about **MERN Stack, MySQL, Python, Nextjs**
+- 💬 Ask me about **ML, Supervised Learning, Unsupervised Learning, Neural Networks, MERN Stack, MySQL, Python, Nextjs**
 
-- 📫 How to reach me **mail.pradeepmondal@gmail.com**
+- 📫 Reach me here - **mail.pradeepmondal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1StWXC_nTjD1XAqNDgwrEvbF1LCsTo1jR/view?usp=sharing](https://drive.google.com/file/d/1StWXC_nTjD1XAqNDgwrEvbF1LCsTo1jR/view?usp=sharing)
-
-- 🌐 Know more about me - https://pradeepmondal.ml/
+- 🌐 Know more about me here - https://pradeepmondal.deepro.co/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ppmtwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ppmtwts" height="30" width="40" /></a>
+<a href="https://twitter.com/ppmtwts" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitterx.png" alt="ppmtwts" height="45" width="45" /></a>
 <a href="https://linkedin.com/in/impradeepmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="impradeepmondal" height="30" width="40" /></a>
 <a href="https://fb.com/impradeepmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="impradeepmondal" height="30" width="40" /></a>
 <a href="https://instagram.com/pradeepmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradeepmondal" height="30" width="40" /></a>
