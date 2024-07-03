@@ -15,7 +15,7 @@
 
 - 📫 Reach me here - **mail.pradeepmondal@gmail.com**
 
-- 🌐 Know more about me here - https://pradeepmondal.deepro.co/
+- 🌐 Know more about me here - https://ppml.me/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
