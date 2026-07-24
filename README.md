@@ -10,7 +10,7 @@
 🔭 I'm currently working on **LLM-based Agentic Workflows** and **Generative AI** <br>
 👯 I'm looking to collaborate on **AI/ML projects**, **Research**, and **Startup Ideas** <br>
 🌱 I'm currently learning about **Advanced Deep Learning Architectures**, **Transformers**, and **Scalable Systems** <br>
-⚡ I've been **TA** @ **IIT Madras**,  **AI Engineer - Training** @ **Outlier AI** <br>
+⚡ I've been **TA** @ **IIT Madras**,  **Software Developer - AI Training** @ **Scale AI** <br>
 <br>
 
 ### **AI & Agentic Workflow Projects**  
