@@ -15,9 +15,11 @@
 
 ### **AI & Agentic Workflow Projects**  
 | Project | Description |  
-|---------|-------------|  
+|---------|-------------|
 | [TDS Solver](https://github.com/pradeepmondal/tds-solver) | LLM-powered agent that solves TDS course assignments via API — scored a perfect 20/20 on evaluation. The projects has 15 forks and 4 stars on GitHub. |  
-| [LLM-Based Automation Agent](https://github.com/pradeepmondal/llm-based-automation-agent) | Automation agent built with LLMs for intelligent task execution. |  
+| [LLM-Based Automation Agent](https://github.com/pradeepmondal/llm-based-automation-agent) | Automation agent built with LLMs for intelligent task execution. |
+| [KDSH Fresh: Character-Centric Backstory Verification](https://github.com/nirajkumar1002/kdsh26) | A high-performance pipeline for verifying character backstory consistency in long-form novels. [Part of Hackathon, Teamwork] |
+
 
 ### **Data Science & ML Projects**  
 | Project | Description |  
