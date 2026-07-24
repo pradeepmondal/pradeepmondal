@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1F6FEB&vCenter=true&repeat=false&width=435&lines=Hi+there!+I'm+Pradeep+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-[![Website](https://img.shields.io/badge/Portfolio-pramon.in-1f6feb?style=flat-square&logo=google-chrome&logoColor=white)](https://pramon.in)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/impradeepmondal)  [![GitHub](https://img.shields.io/badge/GitHub-pradeepmondal-181717?style=flat-square&logo=github)](https://github.com/pradeepmondal) 
+[![Website](https://img.shields.io/badge/Portfolio-pradeepmondal.github.io-1f6feb?style=flat-square&logo=google-chrome&logoColor=white)](https://pradeepmondal.github.io)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/impradeepmondal)  [![GitHub](https://img.shields.io/badge/GitHub-pradeepmondal-181717?style=flat-square&logo=github)](https://github.com/pradeepmondal) 
 
 
 
